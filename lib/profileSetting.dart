@@ -410,7 +410,7 @@ class _ProfileSettingState extends State<ProfileSetting> {
           ),
         ),
       ),
-      bottomNavigationBar: BottomNavBar(context, 4),
+      bottomNavigationBar: BottomNavBar(context, 3),
     );
   }
 

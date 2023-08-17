@@ -240,7 +240,7 @@ class _CustomPageState extends State<CustomPage> {
           ],
         ),
       ),
-      bottomNavigationBar: BottomNavBar(context, 2),
+      bottomNavigationBar: BottomNavBar(context, 1),
     );
   }
 }

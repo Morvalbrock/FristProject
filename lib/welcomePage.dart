@@ -293,7 +293,7 @@ class _WelcomePageState extends State<WelcomePage> {
           ),
         ),
       ),
-      bottomNavigationBar: BottomNavBar(context, 1),
+      bottomNavigationBar: BottomNavBar(context, 0),
     );
   }
 

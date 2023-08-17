@@ -239,7 +239,7 @@ class _SupportfileState extends State<Supportfile> {
           ],
         ),
       ),
-      bottomNavigationBar: BottomNavBar(context, 3),
+      bottomNavigationBar: BottomNavBar(context, 2),
     );
   }
 }

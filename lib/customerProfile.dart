@@ -603,7 +603,7 @@ class _CustomerProfileState extends State<CustomerProfile> {
           ],
         ),
       ),
-      bottomNavigationBar: BottomNavBar(context, 5),
+      bottomNavigationBar: BottomNavBar(context, 1),
     );
   }
 
