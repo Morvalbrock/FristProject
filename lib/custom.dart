@@ -3,11 +3,11 @@ import 'package:hexcolor/hexcolor.dart';
 import 'demo_bottombar_icons.dart';
 import 'package:getwidget/getwidget.dart';
 
-Widget BottomNavBar(context,index) {
+Widget BottomNavBar(context, index) {
   return SizedBox(
     // height: 50.0,
     child: BottomNavigationBar(
-      currentIndex:index,
+      currentIndex: index,
       type: BottomNavigationBarType.fixed,
       backgroundColor: Color(0xFFFFFFFF),
       selectedItemColor: HexColor('#05769A'),

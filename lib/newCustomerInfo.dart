@@ -567,7 +567,7 @@ class _NewCustomerState extends State<NewCustomer> {
   }
 
   String? validatesetupbox(String? value) {
-    if (value!.length != 10)
+    if (value!.length != 5)
       return 'Enter must be a setupbox number ';
     else
       return null;
